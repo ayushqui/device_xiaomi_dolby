@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter everpal,$(TARGET_DEVICE)),)
+ifneq ($(filter camellia,$(TARGET_DEVICE)),)
 
 endif
