@@ -5,11 +5,11 @@ Prebuilt stock MIUI dolby to include in custom ROM builds.
 Extracted from gold MIUI package (refer proprietary-files.txt for version).
 
 ### Supported devices
-* Xiaomi Redmi Note 11 5G (evergo)
-* Xiaomi Redmi Note 11T 5G (evergo)
-* Xiaomi Redmi Note 11S 5G (opal)
-* Xiaomi POCO M4 Pro 5G (evergo)
-* Xiaomi POCO M4 Pro 5G (evergreen)
+* Xiaomi Redmi Note 10 5G (camellian)
+* Xiaomi Redmi Note 10T 5G (camellia)
+* Xiaomi Redmi Note 11SE 5G (camellia)
+* Xiaomi POCO M3 Pro 5G (camellia)
+* Xiaomi POCO M3 Pro 5G (camellian)
 
 ### How to use?
 
